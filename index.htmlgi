@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Vikash Kumar Gupta | Portfolio</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f6f8;
+}
+
+header{
+background:#2c3e50;
+color:white;
+padding:40px;
+text-align:center;
+}
+
+section{
+max-width:900px;
+margin:auto;
+padding:40px;
+}
+
+h2{
+color:#2c3e50;
+}
+
+.card{
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:8px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+button{
+padding:10px 20px;
+background:#2c3e50;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:#2c3e50;
+color:white;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Vikash Kumar Gupta</h1>
+
+<p>MSc Biostatistics & Demography | IIPS Mumbai</p>
+
+<p>Population Research | Public Health | Data Analysis</p>
+
+</header>
+
+<section>
+
+<h2>About Me</h2>
+
+<div class="card">
+
+<p>
+Biostatistics and Demography student at the International Institute for Population Sciences (IIPS), Mumbai.
+My research interests include population health, ageing, multimorbidity, epidemiology, and nutrition.
+I work with large-scale datasets such as LASI, NFHS, and Census data using statistical tools including
+R, Python, Stata, and SQL.
+</p>
+
+<a href="vikash-kumar-gupta-cv.pdf" download>
+
+<button>Download CV</button>
+
+</a>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Education</h2>
+
+<div class="card">
+
+<p><b>MSc Biostatistics & Demography</b><br>
+International Institute for Population Sciences (IIPS), Mumbai<br>
+2024–2026</p>
+
+<p><b>BSc</b><br>
+Patna Science College, Patna University<br>
+2021–2024 | 73.75%</p>
+
+<p><b>Intermediate (12th)</b><br>
+SVP College Bhabua (BSEB)<br>
+85.2%</p>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Technical Skills</h2>
+
+<div class="card">
+
+<ul>
+
+<li>Programming: R, Python, SQL</li>
+
+<li>Statistical Software: Stata, SPSS, SAS</li>
+
+<li>Visualization: Power BI, Matplotlib, Seaborn, QGIS</li>
+
+<li>Demographic Tools: MORTPAK, SPECTRUM</li>
+
+<li>Qualitative Analysis: NVivo, Atlas.ti</li>
+
+<li>Data Collection: Kobo Toolbox</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Research Experience</h2>
+
+<div class="card">
+
+<p><b>Research Intern</b><br>
+Central University of Andhra Pradesh</p>
+
+<p>
+Conducted research on JEEViKA and women’s empowerment in rural Bihar,
+examining SHG-based financial inclusion, livelihood outcomes, and policy implementation.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<p><b>Data Science Intern</b><br>
+Cognifyz Technologies</p>
+
+<p>
+Analysed a restaurant dataset using Python for data cleaning,
+descriptive analysis, and visualization of ratings and price trends.
+</p>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Research Projects</h2>
+
+<div class="card">
+
+<ul>
+
+
+<li>Women’s Autonomy and Nutrition in Mumbai Slums</li>
+
+<li>Inter-State Urban Male Migration (Census 2011)</li>
+
+<li>Tobacco Smoking and Tuberculosis – Systematic Review & Meta-Analysis</li>
+
+<li>JEEViKA and Women’s Empowerment in Rural Bihar</li>
+
+<li>Pradhan Mantri National Dialysis Program – Policy Review</li>
+
+</ul>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Contact</h2>
+
+<div class="card">
+
+<p>Email: vikashiipsmumbai@gmail.com</p>
+
+<p>Phone: +91 7061996433</p>
+
+<p>LinkedIn: www.linkedin.com/in/vikashiipsmumbai</p>
+
+<p>GitHub: github.com/vikashiipsmumbai</p>
+
+</div>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Vikash Kumar Gupta</p>
+
+</footer>
+
+</body>
+
+</html>
